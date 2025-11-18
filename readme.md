@@ -18,4 +18,4 @@ we enable health monitoring to ensure that the system is running properly and re
 
 we review and create
 
-<img width="827" height="423" alt="Screenshot 2025-11-18 215112" src="https://github.com/user-attachments/assets/642c48a3-83e6-48cd-a187-c89fbd8cb57e" />
+<img width="885" height="501" alt="Screenshot 2025-11-18 222709" src="https://github.com/user-attachments/assets/91d80972-2b81-4034-92c9-94cd8250f981" />
